@@ -13,9 +13,9 @@ The tech stack includes the following:
 * **Postman** as our unit tester/ endpoint tester
 
 ##Postman 
-![](../../Pictures/Screenshots/Screenshot from 2023-02-06 09-30-08.png?raw=true "Get all request")
+![]( src/main/resources/static/getcrud.png "Get all request")
 
-![](../../Pictures/Screenshots/Screenshot from 2023-02-06 09-30-16.png?raw=true "Find by id request")
+![](src/main/resources/static/findbyid.png?raw=true "Find by id request")
 ### 2. Frontend
 * **Working Progress...**
 * **Angular** as the application design framework
