@@ -12,5 +12,10 @@ The tech stack includes the following:
 * **Springboot** as our server language and framework
 * **Postman** as our unit tester/ endpoint tester
 
+##Postman 
+![](../../Pictures/Screenshots/Screenshot from 2023-02-06 09-30-08.png?raw=true "Get all request")
+
+![](../../Pictures/Screenshots/Screenshot from 2023-02-06 09-30-16.png?raw=true "Find by id request")
 ### 2. Frontend
+* **Working Progress...**
 * **Angular** as the application design framework
